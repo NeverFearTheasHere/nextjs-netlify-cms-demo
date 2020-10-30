@@ -90,6 +90,7 @@ collections:
 
   - name: "posts"
     label: "Posts"
+    label_singular: "Post"
     folder: "src/pages/posts"
     extension: "mdx"
     format: "frontmatter"
