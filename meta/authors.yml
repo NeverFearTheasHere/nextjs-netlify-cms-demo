@@ -1,6 +1,9 @@
 authors:
-  - slug: wutali
-    name: Takahiro Fujiwara
+  - slug: thea
+    name: Thea Lanherne
     introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
-      Python / Golang / React
+      blah blah
+  - slug: author2
+    name: Second Author
+    introduction:
+      blah blah blah
