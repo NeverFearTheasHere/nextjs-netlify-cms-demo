@@ -1,5 +1,5 @@
 {
-  "base_url": "https:/netlify-cms-demo.netlify.app/",
+  "base_url": "https:/netlify-cms-demo.netlify.app",
   "site_title": "Test Website",
   "site_description": "Next.js blog using Netlify CMS",
   "site_keywords": [
